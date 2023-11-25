@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.welcome-app-bg-container {
+  background-color: #1e293b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.welcome-heading {
+  color: #f0bb03;
+  font-family: 'Bree Serif';
+  font-size: 40px;
+  font-weight: bold;
+}
+.sub-heading {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 790;
+}
+button {
+  background-color: #ffffff;
+  color: #1e293b;
+  font-size: 12px;
+  font-weight: 780;
+  border-radius: 8px;
+  padding: 6px;
+}
